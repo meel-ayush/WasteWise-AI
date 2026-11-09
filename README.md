@@ -29,6 +29,7 @@
 13. [What I Learned](#-what-i-learned)
 14. [Future Goals](#-future-goals)
 15. [License](#-license)
+16. [Sponsor & Support](#-sponsor--support)
 
 ---
 
@@ -504,6 +505,35 @@ Licensed under **Creative Commons Attribution-NonCommercial 4.0 International (C
 Free to share and adapt for non-commercial use with attribution. Commercial use requires a separate license — contact via [LinkedIn](https://www.linkedin.com/in/ayushmeel).
 
 Full terms: [LICENSE](LICENSE) · [CC BY-NC 4.0 Legal Code](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+
+---
+
+<a id="sponsor--support"></a>
+
+## 💖 Support the Mission
+
+> *"India wastes over 68.7 million tonnes of food every year while small street vendors lose daily profit to guesswork."*
+>
+> WasteWise AI was built to solve a real problem for the vendors and dhabas who feed India, without enterprise complexity or cost. If you believe in practical, high-impact civic engineering and want to back continued development, consider sponsoring the project.
+
+<p align="center">
+  <a href="https://github.com/sponsors/meel-ayush">
+    <img src="https://img.shields.io/badge/Sponsor_on-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" height="38"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://patreon.com/meel_ayush">
+    <img src="https://img.shields.io/badge/Support_on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" height="38"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="upi://pay?pa=ayushmeel@ptyes&pn=Ayush%20Meel&cu=INR&tn=Support%20WasteWise%20AI">
+    <img src="https://img.shields.io/badge/Direct_UPI-ayushmeel%40ptyes-00BAF2?style=for-the-badge&logo=googlepay&logoColor=white" alt="Direct UPI" height="38"/>
+  </a>
+</p>
+
+<p align="center">
+  ⚡ <b>Direct UPI (0% Platform Fee):</b> <code>ayushmeel@ptyes</code> &nbsp;|&nbsp; 📱 <a href="upi://pay?pa=ayushmeel@ptyes&pn=Ayush%20Meel&cu=INR&tn=Support%20WasteWise%20AI"><b>Open in any UPI App ↗</b></a><br>
+  <sub>Works with Google Pay, PhonePe, Paytm, BHIM, Cred, Navi & all Indian bank apps</sub>
+</p>
 
 ---
 
