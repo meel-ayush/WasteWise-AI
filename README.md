@@ -524,15 +524,10 @@ Full terms: [LICENSE](LICENSE) · [CC BY-NC 4.0 Legal Code](https://creativecomm
   <a href="https://patreon.com/meel_ayush">
     <img src="https://img.shields.io/badge/Support_on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" height="38"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="upi://pay?pa=ayushmeel@ptyes&pn=Ayush%20Meel&cu=INR&tn=Support%20WasteWise%20AI">
-    <img src="https://img.shields.io/badge/Direct_UPI-ayushmeel%40ptyes-00BAF2?style=for-the-badge&logo=googlepay&logoColor=white" alt="Direct UPI" height="38"/>
-  </a>
 </p>
 
 <p align="center">
-  ⚡ <b>Direct UPI (0% Platform Fee):</b> <code>ayushmeel@ptyes</code> &nbsp;|&nbsp; 📱 <a href="upi://pay?pa=ayushmeel@ptyes&pn=Ayush%20Meel&cu=INR&tn=Support%20WasteWise%20AI"><b>Open in any UPI App ↗</b></a><br>
-  <sub>Works with Google Pay, PhonePe, Paytm, BHIM, Cred, Navi & all Indian bank apps</sub>
+  Pay directly with UPI: <code>ayushmeel@ptyes</code>
 </p>
 
 ---
