@@ -8,7 +8,7 @@
 [![Supabase](https://img.shields.io/badge/Supabase-Postgres-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-orange?style=for-the-badge)](LICENSE)
 
-**[Live App](https://wastewiseai.vercel.app)** · **[GitHub](https://github.com/meel-ayush/WasteWise-AI)** · **[LinkedIn](https://www.linkedin.com/in/ayushmeel)**
+**[GitHub](https://github.com/meel-ayush/WasteWise-AI)** · **[LinkedIn](https://www.linkedin.com/in/ayushmeel)**
 
 ---
 
